@@ -4,6 +4,9 @@ A CSS Grid Responsive layout Blogger Template, based on the Awesome Inc theme
 ## What is this?
 It is a responsive, mobile-friendly, CSS Grid layout for [Blogger](blogger.com)
 
+## Where can I see it in action?
+It is running my Uncommented Bytes blog at [www.sheetsj.com](https://www.sheetsj.com)
+
 ## But why?
 I've been on Blogger for 17+ years now, and decided in 2021 to update the template to something more modern. To my surprise, nothing existed that was:
 
@@ -40,3 +43,8 @@ Well I have a few excuses for this beautiful travesty of a template:
 - [ ] Tweak design to be even cleaner
 - [ ] Support for multiple "Pages"
 - [ ] Give up and migrate to [11ty](https://www.11ty.dev/) already
+
+## Who do I blame?
+- Author: Jeff Sheets
+- Twitter: https://twitter.com/sheetsj
+- Uncommented Bytes blog at [www.sheetsj.com](https://www.sheetsj.com)
