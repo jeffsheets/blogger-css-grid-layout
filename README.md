@@ -25,7 +25,7 @@ Well I have a few excuses for this beautiful travesty of a template:
 - I already had it running, so tweaking the template was an _easy_ hack
 
 ## Ok, so, how does it work?
-1. Download the backup your current Theme so you can rollback, if needed
+1. Download the backup of your current Theme so you can rollback, if needed
 1. Pick to use a 1st Generation Theme in Blogger
 1. Select to Edit HTML
 1. Copy the [blogger-css-grid-layout.html](blogger-css-grid-layout.html) into your HTML, and save
