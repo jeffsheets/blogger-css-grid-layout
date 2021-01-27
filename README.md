@@ -40,7 +40,7 @@ Well I have a few excuses for this beautiful travesty of a template:
 - [x] "Simple" - based on Awesome Inc. default Blogger template
 - [x] Mobile friendly
 - [ ] Cleanup the excess cruft of nested tags and complicated CSS styles
-- [ ] No really, *clean it up*! -- It is an embarrassment
+- [ ] No really, **clean it up**! -- It is an embarrassment
 - [ ] Tweak design to be even cleaner
 - [ ] Support for multiple "Pages"
 - [ ] Give up and migrate to [11ty](https://www.11ty.dev/) already
